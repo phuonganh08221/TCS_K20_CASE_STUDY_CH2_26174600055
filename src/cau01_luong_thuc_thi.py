@@ -1,0 +1,5 @@
+print("Bai 1: Luong thuc thi")
+print("Xin chao Python")
+print("Hoc lap trinh Python tren Ubuntu")
+# print("Dong nay dang duoc ghi chu")
+print("Ket thuc bai 1")
